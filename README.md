@@ -20,12 +20,12 @@ Using the training dataset we need to prepare a Machine Learning model which wil
 **What would be the Strategy ? **
 
 Divide the solution approach in simple 9-steps and execute them one after the other
-Load essential Python Libraries 
-Load Training/Test datasets in Python environment.
-Prepare submission file and remove unwanted columns.
-Exploratory data analysis (EDA).
-Impute Missing values.
-Feature Engineering.
-Build Machine Learning Model & Make prediction on test dataset 
-Prepare submission file with final prediction
-Conclusion and Takeaways
+1. Load essential Python Libraries 
+2. Load Training/Test datasets in Python environment.
+3. Prepare submission file and remove unwanted columns.
+4. Exploratory data analysis (EDA).
+5. Impute Missing values.
+6. Feature Engineering.
+7. Build Machine Learning Model & Make prediction on test dataset 
+8. Prepare submission file with final prediction
+9. Conclusion and Takeaways
